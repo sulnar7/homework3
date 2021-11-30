@@ -446,4 +446,7 @@ footer img{
     margin-top: 8px;
     margin-left: 10px;
 }
-
+.nav-items a:active { color: black; }
+.nav-items a:hover{
+    color: #458FF6;
+}
